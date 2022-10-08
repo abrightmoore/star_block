@@ -1,0 +1,419 @@
+{
+  "sounds.flyspy.intro": {
+    "category": "music",
+    "sounds": [
+      "sounds/flyspy/music/flyspyintro"
+    ]
+  },
+  "sounds.flyspy.0001": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0001"
+    ]
+  },
+  "sounds.flyspy.0002": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0002"
+    ]
+  },
+  "sounds.flyspy.0003": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0003"
+    ]
+  },
+  "sounds.flyspy.0004": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0004"
+    ]
+  },
+  "sounds.flyspy.0005": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0005"
+    ]
+  },
+  "sounds.flyspy.0006": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0006"
+    ]
+  },
+  "sounds.flyspy.0007": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0007"
+    ]
+  },
+  "sounds.flyspy.0008": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0008"
+    ]
+  },
+  "sounds.flyspy.0009": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0009"
+    ]
+  },
+  "sounds.flyspy.0010": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0010"
+    ]
+  },
+  "sounds.flyspy.0011": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0011"
+    ]
+  },
+  "sounds.flyspy.0012": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0012"
+    ]
+  },
+  "sounds.flyspy.0013": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0013"
+    ]
+  },
+  "sounds.flyspy.0014": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0014"
+    ]
+  },
+  "sounds.flyspy.0015": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0015"
+    ]
+  },
+  "sounds.flyspy.0016": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0016"
+    ]
+  },
+  "sounds.flyspy.0017": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0017"
+    ]
+  },
+  "sounds.flyspy.0018": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0018"
+    ]
+  },
+  "sounds.flyspy.0019": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0019"
+    ]
+  },
+  "sounds.flyspy.0020": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0020"
+    ]
+  },
+  "sounds.flyspy.0021": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0021"
+    ]
+  },
+  "sounds.flyspy.0022": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0022"
+    ]
+  },
+  "sounds.flyspy.0023": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0023"
+    ]
+  },
+  "sounds.flyspy.0024": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0024"
+    ]
+  },
+  "sounds.flyspy.0025": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0025"
+    ]
+  },
+  "sounds.flyspy.0026": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0026"
+    ]
+  },
+  "sounds.flyspy.0027": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0027"
+    ]
+  },
+  "sounds.flyspy.0028": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0028"
+    ]
+  },
+  "sounds.flyspy.0029": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0029"
+    ]
+  },
+  "sounds.flyspy.0101": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0101"
+    ]
+  },
+  "sounds.flyspy.0102": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0102"
+    ]
+  },
+  "sounds.flyspy.0103": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0103"
+    ]
+  },
+  "sounds.flyspy.0104": {
+    "category": "ui",
+    "sounds": [
+      "sounds/flyspy/0104"
+    ]
+  },
+  "mob.ghast.affectionate_scream": {
+    "category": "hostile",
+    "min_distance": 200.0,
+    "sounds": [
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1001",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1002",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1003",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1004",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1005",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1006",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mob.ghast.charge": {
+    "category": "hostile",
+    "min_distance": 200.0,
+    "sounds": [
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1001",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1002",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1003",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1004",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1005",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1006",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mob.ghast.death": {
+    "category": "hostile",
+    "min_distance": 200.0,
+    "sounds": [
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1006",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mob.ghast.fireball": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/endermen/portal"
+    ]
+  },
+  "mob.ghast.moan": {
+    "category": "hostile",
+    "min_distance": 200.0,
+    "sounds": [
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1001",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1002",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1003",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1004",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1005",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1006",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mob.ghast.scream": {
+    "category": "hostile",
+    "min_distance": 200.0,
+    "sounds": [
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1001",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1002",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1003",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1004",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1005",
+        "volume": 1.0
+      },
+      {
+        "name": "sounds/flyspy/mob/mechanic/ambient/1006",
+        "volume": 1.0
+      }
+    ]
+  },
+  "music.game": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/flyspy/music/20120425a",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/piano1",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/piano2",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/piano3",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      }
+    ]
+  }
+}
