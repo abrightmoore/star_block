@@ -7,6 +7,9 @@ Star Block is a Bedrock Minecraft world, also available on the Minecraft Marketp
 
 Own your own galaxy! Star Block is a huge open-world space survival spawn with complete-the-monument challenges. As a member of the Big Space Explorer team, discover the location of hidden beacons throughout 40+ systems. Work alone or with friends to uncover secret co-ordinates, travel to alien worlds, and establish far-flung bases to operate from. See you in space!
 
+Here's a handy systems map - the in-game co-ordinates of all the systems are found in-game on papers (search the ships).
+![Systems map](https://pbs.twimg.com/media/Feg2XWKUUAAVuU9?format=jpg&name=4096x4096)
+
 # about this project
 
 This repository is a public and permissive copy of the world source files, intended to allow people to contribute to the development of the Star Block galaxy system. It also includes some of the engineering tools used to create parts of the project.
