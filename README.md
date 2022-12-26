@@ -12,6 +12,10 @@ Own your own galaxy! Star Block is a huge open-world space survival spawn with c
 Here's a handy systems map - the in-game co-ordinates of all the systems are found in-game on papers (search the ships).
 ![Systems map](https://pbs.twimg.com/media/Feg2XWKUUAAVuU9?format=jpg&name=4096x4096)
 
+Here's a guide to how to play: https://www.youtube.com/watch?v=7-Tw9N14AqU
+
+Here's the world as an .mctemplate ready to auto-install directly into Minecraft: https://drive.google.com/file/d/1e9sFJ42Z3j5momPoDXFbNAgFSc0dVv9E/view
+
 # about this project
 
 This repository is a public and permissive copy of the world source files, intended to allow people to contribute to the development of the Star Block galaxy system. It also includes some of the engineering tools used to create parts of the project.
